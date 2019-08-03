@@ -1,6 +1,6 @@
 {
 	"name": "babel-plugin-transform-inline-scss",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Babel transform to convert inline $scss`.scss{code}` to css",
 	"keywords": [
 		"babel-plugin"
