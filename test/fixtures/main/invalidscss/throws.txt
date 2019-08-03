@@ -1,0 +1,6 @@
+unknown: expected "{".
+  ╷
+5 │ fa}
+  │   ^
+  ╵
+  stdin 5:3  root stylesheet

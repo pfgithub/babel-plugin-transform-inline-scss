@@ -1,0 +1,5 @@
+$scss`
+a{
+	color: blue;
+}
+`
